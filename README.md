@@ -69,11 +69,7 @@ Se quiser contribuir para este projeto, sinta-se à vontade para abrir uma **iss
 
 ---
 
-## 📃 **Licença**
-Este projeto está licenciado sob a **MIT License**. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
-
----
 
 ## 💬 **Contato**
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/seu-perfil).
+Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/felipemirandarosa/).
 
